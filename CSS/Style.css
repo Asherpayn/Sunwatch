@@ -1,4 +1,8 @@
 body {
     background-color: blue;
     color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
